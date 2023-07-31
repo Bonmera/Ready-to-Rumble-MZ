@@ -63,3 +63,7 @@ Unfortunately, since OpenGL is not automatically installed on macOS anymore it w
 
 ### What should I say if my customers are complaining of rumble malfunctioning?
 Provided the gamepad has a rumble feature there shouldn't be an issue. But in rare cases, making a change to the rumble option while the gamepad is connected may desync the rumble feature. If this occurs, simply unplug and reconnect your gamepad to cycle access to the rumble interface.
+
+## Licensing
+
+Ready to Rumble MZ is free to use in any project, subject to the terms of the MIT License.
