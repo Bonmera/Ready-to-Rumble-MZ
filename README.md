@@ -32,7 +32,7 @@ For example:
 
 Rumble(1,1,1000)
 Rumble(0.4,0.2,500)
-Rumble(0.3,0.6,5000)[/CODE]
+Rumble(0.3,0.6,5000)
 
 ## Q&A
 
